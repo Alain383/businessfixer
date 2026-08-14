@@ -1,0 +1,6 @@
+{
+  "name": "BusinessFixer",
+  "description": "Business Growth Mentoring by Harish Dabasia",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
