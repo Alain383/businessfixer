@@ -45,7 +45,7 @@ export function Home() {
         <div className="relative max-w-7xl mx-auto px-4 py-12 md:py-20 md:py-32 mt-16 w-full text-center">
           <div className="max-w-4xl mx-auto">
             <h1 className="font-display font-bold text-[30px] sm:text-[40px] md:text-[50px] lg:text-[60px] text-white leading-[1.1] mb-8">
-              Build Better Businesses.<br/>
+              Build Real-Estate Businesses.<br/>
               <span className="text-[#FF6700]">Create Generational Wealth.</span><br/>
               Elevate Service Excellence Across Africa.
             </h1>
