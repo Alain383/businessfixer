@@ -29,8 +29,8 @@ export function Home() {
   return (
     <div className="bg-brand-light font-body">
       <SEO 
-        title="Business Fixer | Harish Dabasia" 
-        description="Build Better Businesses. Create Generational Wealth. Elevate Service Excellence Across Africa."
+        title="Real-Estate Businessmentor | Harish Dabasia" 
+        description="Build Real-Estate Businesses. Create Generational Wealth. Elevate Service Excellence Across Africa."
       />
 
       {/* Hero Section */}
